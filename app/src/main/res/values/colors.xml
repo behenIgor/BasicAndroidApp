@@ -6,7 +6,10 @@
 
     <color name="background_white">#eeffee</color>
     <color name="text_white">#ffffff</color>
+    <color name="background_yellow">#f7f4ad</color>
 
-    <color name="background_yellow">#edebb1</color>
 
+    <color name="background_si">#edebb1</color>
+    <color name="background_fp">#edb989</color>
+    <color name="background_su">#c7edad</color>
 </resources>
